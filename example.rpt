@@ -1,0 +1,380 @@
+
+  EPA STORM WATER MANAGEMENT MODEL - VERSION 5.2 (Build 5.2.4)
+  PYSWMM TOOLKIT API - VERSION v1.0 (2023-11-27)
+  ------------------------------------------------------------
+
+  
+  ERROR 209: undefined object rain at line 52 of [SUBCATCHMENT] section:
+  sub323           rain             1Y4              2747.19853488 71.2090585245 52.4137246805 7.89479218517 272.754931604 0               
+
+  
+  ERROR 209: undefined object rain at line 53 of [SUBCATCHMENT] section:
+  sub324           rain             1Y217            284.762498641 0        16.8749073669 7.56122792365 72.9865628742 0               
+
+  
+  ERROR 209: undefined object rain at line 54 of [SUBCATCHMENT] section:
+  sub325           rain             1Y1              288.702630622 92.3430549467 16.9912515908 6.93781987772 74.833694691 0               
+
+  
+  ERROR 209: undefined object rain at line 55 of [SUBCATCHMENT] section:
+  sub326           rain             1Y2              3390.73124307 99.8665621021 58.2299857725 5.87623333363 286.691085513 0               
+
+  
+  ERROR 209: undefined object rain at line 56 of [SUBCATCHMENT] section:
+  sub327           rain             1Y215            184.555491252 0        13.5851202149 6.31678293791 57.1053379118 0               
+
+  
+  ERROR 209: undefined object rain at line 57 of [SUBCATCHMENT] section:
+  sub328           rain             1Y6              410.990834296 93.3630412555 20.272908876 7.63097738296 119.400953228 0               
+
+  
+  ERROR 209: undefined object rain at line 58 of [SUBCATCHMENT] section:
+  sub329           rain             B17              368.356153022 45.8187857329 19.1926067282 50.5229323835 164.753999621 0               
+
+  
+  ERROR 209: undefined object rain at line 59 of [SUBCATCHMENT] section:
+  sub330           rain             1Y8              667.494153637 90.0545030832 25.8359082216 8.78063678631 103.446848588 0               
+
+  
+  ERROR 209: undefined object rain at line 60 of [SUBCATCHMENT] section:
+  sub331           rain             1Y214            961.29119367 88.0083542693 31.0046963164 6.90713085373 128.686820355 0               
+
+  
+  ERROR 209: undefined object rain at line 61 of [SUBCATCHMENT] section:
+  sub332           rain             1Y16             877.211959476 91.603350104 29.6177642552 13.6065241665 137.717450762 0               
+
+  
+  ERROR 209: undefined object rain at line 62 of [SUBCATCHMENT] section:
+  sub333           rain             1Y213            437.351534561 68.2839317792 20.9129513594 9.17437339048 83.2522682185 0               
+
+  
+  ERROR 209: undefined object rain at line 63 of [SUBCATCHMENT] section:
+  sub334           rain             1Y987            4805.65725365 97.2265541971 69.3228479915 4.32443332011 301.161686599 0               
+
+  
+  ERROR 209: undefined object rain at line 64 of [SUBCATCHMENT] section:
+  sub335           rain             B16              1580.8581777 7.5838701154 39.7600072648 27.9148792646 224.680273444 0               
+
+  
+  ERROR 209: undefined object rain at line 65 of [SUBCATCHMENT] section:
+  sub336           rain             1Y21             2124.44222571 70.1748436006 46.0916719778 6.9708091559 208.221440275 0               
+
+  
+  ERROR 209: undefined object rain at line 66 of [SUBCATCHMENT] section:
+  sub337           rain             1Y208            369.629646191 73.4597780199 19.2257547626 9.00048963253 79.7971371634 0               
+
+  
+  ERROR 209: undefined object rain at line 67 of [SUBCATCHMENT] section:
+  sub338           rain             1Y209            412.423232384 69.2423050907 20.3082060356 7.17568542218 85.365554093 0               
+
+  
+  ERROR 209: undefined object rain at line 68 of [SUBCATCHMENT] section:
+  sub339           rain             1Y210            487.888386631 61.2772450118 22.08819564 11.5353660144 96.1431368126 0               
+
+  
+  ERROR 209: undefined object rain at line 69 of [SUBCATCHMENT] section:
+  sub340           rain             1Y212            647.764601876 47.9770232899 25.4512200469 13.4136242262 117.307104495 0               
+
+  
+  ERROR 209: undefined object rain at line 70 of [SUBCATCHMENT] section:
+  sub341           rain             1Y206            272.322096883 59.2044221127 16.5021846094 14.3096300294 68.0620593744 0               
+
+  
+  ERROR 209: undefined object rain at line 71 of [SUBCATCHMENT] section:
+  sub342           rain             1Y24             1893.93299713 53.8803312362 43.5193404951 6.41494803335 207.755168477 0               
+
+  
+  ERROR 209: undefined object rain at line 72 of [SUBCATCHMENT] section:
+  sub343           rain             1Y204            1357.60411019 65.0094832215 36.8456796679 12.4530613606 185.588920372 0               
+
+  
+  ERROR 209: undefined object rain at line 73 of [SUBCATCHMENT] section:
+  sub344           rain             B14              5058.3680025 0.9251117278 71.1222047078 12.2559712756 323.057277203 0               
+
+  
+  ERROR 209: undefined object rain at line 74 of [SUBCATCHMENT] section:
+  sub345           rain             1Y993            8969.29860133 91.7068453579 94.7063809958 1.72148267055 399.356869554 0               
+
+  
+  ERROR 209: undefined object rain at line 75 of [SUBCATCHMENT] section:
+  sub346           rain             1Y203            1276.59855199 77.1633069877 35.7295193361 12.3447084962 180.184114828 0               
+
+  
+  ERROR 209: undefined object rain at line 76 of [SUBCATCHMENT] section:
+  sub347           rain             B13              2286.92100528 1.0826961663 47.8217628834 11.5246244909 297.09527778 0               
+
+  
+  ERROR 209: undefined object rain at line 77 of [SUBCATCHMENT] section:
+  sub348           rain             1Y30             2419.57732748 73.3919557846 49.189199297 7.5409966453 232.646367391 0               
+
+  
+  ERROR 209: undefined object rain at line 78 of [SUBCATCHMENT] section:
+  sub349           rain             1Y202            1278.34359818 43.475176233 35.7539312269 11.5545329083 169.848869653 0               
+
+  
+  ERROR 209: undefined object rain at line 79 of [SUBCATCHMENT] section:
+  sub350           rain             1Y33             1846.68102763 70.3810077854 42.973026745 5.53563972291 204.501870933 0               
+
+  
+  ERROR 209: undefined object rain at line 80 of [SUBCATCHMENT] section:
+  sub351           rain             B12              3362.12884047 1.4374863358 57.9838670707 13.4981139261 342.406139273 0               
+
+  
+  ERROR 209: undefined object rain at line 81 of [SUBCATCHMENT] section:
+  sub352           rain             1Y201            2528.32772993 90.9840565915 50.2824793534 6.18071714761 214.15919905 0               
+
+  
+  ERROR 209: undefined object rain at line 82 of [SUBCATCHMENT] section:
+  sub353           rain             1Y39             3548.01673145 75.8729134022 59.565230894 4.17201173595 252.333658069 0               
+
+  
+  ERROR 209: undefined object rain at line 83 of [SUBCATCHMENT] section:
+  sub354           rain             1Y1002           10835.8012353 97.816660277 104.095154716 1.59844554301 448.412027797 0               
+
+  
+  ERROR 209: undefined object rain at line 84 of [SUBCATCHMENT] section:
+  sub355           rain             1Y199            277.83031447 66.2884972529 16.6682426929 12.5438729329 66.9912865545 0               
+
+  
+  ERROR 209: undefined object rain at line 85 of [SUBCATCHMENT] section:
+  sub356           rain             B11              5946.85596611 17.0933749249 77.115860665 16.5973406027 389.386402621 0               
+
+  
+  ERROR 209: undefined object rain at line 86 of [SUBCATCHMENT] section:
+  sub357           rain             1Y197            388.312094813 0        19.7056361179 9.97060117222 78.6421332633 0               
+
+  
+  ERROR 209: undefined object rain at line 87 of [SUBCATCHMENT] section:
+  sub358           rain             1Y511            2221.63646607 85.6550956106 47.1342387874 7.45624192673 224.680105564 0               
+
+  
+  ERROR 209: undefined object rain at line 88 of [SUBCATCHMENT] section:
+  sub359           rain             1Y43             822.564825603 43.3702080925 28.6803909597 5.06695513205 117.759046522 0               
+
+  
+  ERROR 209: undefined object rain at line 89 of [SUBCATCHMENT] section:
+  sub360           rain             1Y508            1105.79331224 41.9020846037 33.2534706796 3.96518586792 172.510585697 0               
+
+  
+  ERROR 209: undefined object rain at line 90 of [SUBCATCHMENT] section:
+  sub361           rain             1Y505            599.369672186 48.3554027332 24.4820275342 3.44683134265 102.564608774 0               
+
+  
+  ERROR 209: undefined object rain at line 91 of [SUBCATCHMENT] section:
+  sub362           rain             1Y196            330.434553289 0        18.1778588753 17.5898545544 81.1534000845 0               
+
+  
+  ERROR 209: undefined object rain at line 92 of [SUBCATCHMENT] section:
+  sub363           rain             1Y86             9357.67679702 14.3332529101 96.7350856568 6.51228096646 447.747444639 0               
+
+  
+  ERROR 209: undefined object rain at line 93 of [SUBCATCHMENT] section:
+  sub364           rain             1Y195            385.1758426 0        19.6258972432 13.75796857 86.7688201807 0               
+
+  
+  ERROR 209: undefined object rain at line 94 of [SUBCATCHMENT] section:
+  sub365           rain             1Y518            3380.09140189 91.0945648732 58.1385534898 7.35464640958 313.017371821 0               
+
+  
+  ERROR 209: undefined object rain at line 95 of [SUBCATCHMENT] section:
+  sub366           rain             1Y95             1765.42669979 14.4335851017 42.0169810885 9.06512775868 199.202297774 0               
+
+  
+  ERROR 209: undefined object rain at line 96 of [SUBCATCHMENT] section:
+  sub367           rain             B10              5093.48047905 1.0954410275 71.3686239117 14.4526968685 367.887865373 0               
+
+  
+  ERROR 209: undefined object rain at line 97 of [SUBCATCHMENT] section:
+  sub368           rain             1Y193            750.426387801 99.9786602298 27.3939115097 11.1795972505 107.481077661 0               
+
+  
+  ERROR 209: undefined object rain at line 98 of [SUBCATCHMENT] section:
+  sub369           rain             1Y93             1707.06359982 43.4696481652 41.3166261912 3.43941448401 191.346957032 0               
+
+  
+  ERROR 209: undefined object rain at line 99 of [SUBCATCHMENT] section:
+  sub370           rain             1Y85             1586.40867125 33.3292433379 39.8297460606 3.11606973744 210.28630593 0               
+
+  
+  ERROR 209: undefined object rain at line 100 of [SUBCATCHMENT] section:
+  sub371           rain             1Y74             2798.71498526 48.7209470502 52.9028825799 3.11808631615 240.038669589 0               
+
+  
+  ERROR 209: undefined object rain at line 101 of [SUBCATCHMENT] section:
+  sub372           rain             1Y521            5120.34671839 77.1254767073 71.5565980074 7.79255434143 370.130867539 0               
+
+  
+  ERROR 209: undefined object rain at line 102 of [SUBCATCHMENT] section:
+  sub373           rain             1Y65             3569.05445185 69.5474278795 59.7415638551 5.54799011736 267.101759545 0               
+
+  
+  ERROR 209: undefined object rain at line 103 of [SUBCATCHMENT] section:
+  sub374           rain             1Y99             1850.7992139 18.7918358269 43.0209160049 10.4404371544 201.044373338 0               
+
+  
+  ERROR 209: undefined object rain at line 104 of [SUBCATCHMENT] section:
+  sub375           rain             1Y191            433.496309942 56.8345404108 20.8205741982 13.8580846287 101.270510376 0               
+
+  
+  ERROR 209: undefined object rain at line 105 of [SUBCATCHMENT] section:
+  sub376           rain             1Y189            380.720220963 62.4765335966 19.5120532226 7.18814071297 83.3093132258 0               
+
+  
+  ERROR 209: undefined object rain at line 106 of [SUBCATCHMENT] section:
+  sub377           rain             1Y524            5788.52004118 71.7550243518 76.0823241047 8.38220048403 378.200102306 0               
+
+  
+  ERROR 209: undefined object rain at line 107 of [SUBCATCHMENT] section:
+  sub378           rain             1Y187            312.921325283 71.7077648602 17.6895823943 13.6500529809 71.1867234743 0               
+
+  
+  ERROR 209: undefined object rain at line 108 of [SUBCATCHMENT] section:
+  sub379           rain             1Y60             5086.3267996 79.3665311023 71.3184884837 4.77793510446 356.129623173 0               
+
+  
+  ERROR 209: undefined object rain at line 109 of [SUBCATCHMENT] section:
+  sub380           rain             1Y46             6402.03756969 82.4461209915 80.0127337971 4.47384945079 387.167279632 0               
+
+  
+  ERROR 209: undefined object rain at line 110 of [SUBCATCHMENT] section:
+  sub381           rain             1Y186            255.121378043 36.846856312 15.9725194645 7.72381383458 68.3470922454 0               
+
+  
+  ERROR 209: undefined object rain at line 111 of [SUBCATCHMENT] section:
+  sub382           rain             1Y105            9457.51837614 75.4099262882 97.2497731418 4.66960430278 508.133727141 0               
+
+  
+  ERROR 209: undefined object rain at line 112 of [SUBCATCHMENT] section:
+  sub383           rain             1Y185            826.11151172 50.3892575553 28.7421556554 8.4375158963 115.12994368 0               
+
+  
+  ERROR 209: undefined object rain at line 113 of [SUBCATCHMENT] section:
+  sub384           rain             1Y531            224.187313056 48.0572062203 14.9728859294 13.3502393809 61.0548641837 0               
+
+  
+  ERROR 209: undefined object rain at line 114 of [SUBCATCHMENT] section:
+  sub385           rain             1Y528            3334.01413961 51.4717896606 57.7409225732 7.55219051106 310.118664685 0               
+
+  
+  ERROR 209: undefined object rain at line 115 of [SUBCATCHMENT] section:
+  sub386           rain             B9               12221.4893486 0.2333662365 110.550845083 14.8036413554 488.271219799 0               
+
+  
+  ERROR 209: undefined object rain at line 116 of [SUBCATCHMENT] section:
+  sub387           rain             1Y184            312.739270204 60.0258709596 17.6844358181 16.5585486852 80.587226757 0               
+
+  
+  ERROR 209: undefined object rain at line 117 of [SUBCATCHMENT] section:
+  sub388           rain             1Y679            1652.98550951 60.5849633027 40.6569244964 8.16269474288 173.433364863 0               
+
+  
+  ERROR 209: undefined object rain at line 118 of [SUBCATCHMENT] section:
+  sub389           rain             1Y676            1598.41257829 58.9924172529 39.9801523045 8.3736750288 172.572602 0               
+
+  
+  ERROR 209: undefined object rain at line 119 of [SUBCATCHMENT] section:
+  sub390           rain             1Y182            301.879201664 73.4992451323 17.3746712678 12.0020671001 70.6460756131 0               
+
+  
+  ERROR 209: undefined object rain at line 120 of [SUBCATCHMENT] section:
+  sub391           rain             1Y532            3522.37689335 54.4596466594 59.349615781 3.91759540499 287.360799392 0               
+
+  
+  ERROR 209: undefined object rain at line 121 of [SUBCATCHMENT] section:
+  sub392           rain             1Y181            159.246388333 51.5421696851 12.6192863639 11.5083330134 52.7668351513 0               
+
+  
+  ERROR 209: undefined object rain at line 122 of [SUBCATCHMENT] section:
+  sub393           rain             1Y179            347.66018047 40.7206844981 18.6456477621 4.70850767881 73.4726606227 0               
+
+  
+  ERROR 209: undefined object rain at line 123 of [SUBCATCHMENT] section:
+  sub394           rain             1Y177            474.946781682 39.436671312 21.7932737716 5.1671431529 83.3254458658 0               
+
+  
+  ERROR 209: undefined object rain at line 124 of [SUBCATCHMENT] section:
+  sub395           rain             1Y174            416.887563683 61.8935846983 20.417824656 1.18278718949 88.4747931952 0               
+
+  
+  ERROR 209: undefined object rain at line 125 of [SUBCATCHMENT] section:
+  sub396           rain             1Y171            471.724510048 62.4647319785 21.7192198306 2.54099894918 89.6906892665 0               
+
+  
+  ERROR 209: undefined object rain at line 126 of [SUBCATCHMENT] section:
+  sub397           rain             1Y109            3556.49883722 14.7294368682 59.6363885327 7.82414346146 417.594245956 0               
+
+  
+  ERROR 209: undefined object rain at line 127 of [SUBCATCHMENT] section:
+  sub398           rain             1Y135            7722.35381435 23.1350253953 87.8769242427 7.72137143254 583.468953173 0               
+
+  
+  ERROR 209: undefined object rain at line 128 of [SUBCATCHMENT] section:
+  sub399           rain             1Y167            932.798907881 46.5725741592 30.541756791 2.14488254385 124.009676077 0               
+
+  
+  ERROR 209: undefined object rain at line 129 of [SUBCATCHMENT] section:
+  sub400           rain             B8               7812.50922397 0.6228336983 88.388399827 18.6577371328 382.706269644 0               
+
+  
+  ERROR 209: undefined object rain at line 130 of [SUBCATCHMENT] section:
+  sub401           rain             B7               3831.2731846 1.3759775062 61.8972792989 18.1448454049 361.615554726 0               
+
+  
+  ERROR 209: undefined object rain at line 131 of [SUBCATCHMENT] section:
+  sub402           rain             B6               5392.12304789 0.7830615948 73.4310768537 16.2860988969 415.692585143 0               
+
+  
+  ERROR 209: undefined object rain at line 132 of [SUBCATCHMENT] section:
+  sub403           rain             1Y144            3041.48718812 38.6346873124 55.1496798551 5.45596744785 269.722850249 0               
+
+  
+  ERROR 209: undefined object rain at line 133 of [SUBCATCHMENT] section:
+  sub404           rain             1Y164            3679.07170803 83.036944233 60.6553518499 6.95064120774 250.276515462 0               
+
+  
+  ERROR 209: undefined object rain at line 134 of [SUBCATCHMENT] section:
+  sub405           rain             1Y141            10553.1376491 22.6922306894 102.728465622 10.3845975839 524.881556099 0               
+
+  
+  ERROR 209: undefined object rain at line 135 of [SUBCATCHMENT] section:
+  sub406           rain             1Y148            2948.17103718 67.5732839151 54.297062878 8.15547478007 400.107303202 0               
+
+  
+  ERROR 209: undefined object rain at line 136 of [SUBCATCHMENT] section:
+  sub407           rain             B4               9038.99295315 1.1786342359 95.0736185971 14.4670523233 501.82607848 0               
+
+  
+  ERROR 209: undefined object rain at line 137 of [SUBCATCHMENT] section:
+  sub408           rain             1Y158            709.352683922 45.8461073011 26.6336757494 5.4713255134 105.207145241 0               
+
+  
+  ERROR 209: undefined object rain at line 138 of [SUBCATCHMENT] section:
+  sub409           rain             1Y155            760.276149002 48.9432644801 27.5731055379 3.65750494486 111.065281505 0               
+
+  
+  ERROR 209: undefined object rain at line 139 of [SUBCATCHMENT] section:
+  sub410           rain             B1               957.99059906 3.2073103122 30.9514232154 12.3500834436 233.774591917 0               
+
+  
+  ERROR 209: undefined object rain at line 140 of [SUBCATCHMENT] section:
+  sub411           rain             B2               2263.76459625 0.000394607 47.5790352598 15.0786299122 347.717714687 0               
+
+  
+  ERROR 209: undefined object rain at line 141 of [SUBCATCHMENT] section:
+  sub412           rain             A2               4260.52416112 3.3883938657 65.2726907759 17.8979154429 277.107394485 0               
+
+  
+  ERROR 209: undefined object rain at line 142 of [SUBCATCHMENT] section:
+  sub413           rain             1Y153            3537.3283545 9.9901670961 59.4754432896 9.14549635869 335.202097011 0               
+
+  
+  ERROR 209: undefined object rain at line 143 of [SUBCATCHMENT] section:
+  sub414           rain             A3               4036.35092656 0.0001138772 63.5322825543 17.4058587708 267.03951897 0               
+
+  
+  ERROR 209: undefined object rain at line 144 of [SUBCATCHMENT] section:
+  sub415           rain             A4               6277.41558393 3.9633126147 79.2301431523 15.7374227566 339.478946664 0               
+
+  
+  ERROR 209: undefined object rain at line 145 of [SUBCATCHMENT] section:
+  sub416           rain             A1               16021.2217071 10.2454775179 126.57496477
